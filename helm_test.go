@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jeremywohl/flatten/v2"
+	flatten "github.com/jeremywohl/flatten/v2"
 	helmclient "github.com/whitefirer/helmsdk/helmclient"
 	"helm.sh/helm/v3/pkg/repo"
 	"helm.sh/helm/v3/pkg/strvals"
